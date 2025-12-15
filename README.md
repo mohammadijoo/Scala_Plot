@@ -733,9 +733,9 @@ sbt "runMain Histogram --show"
 
 Replace the placeholder YouTube ID below with your own video ID after uploading the tutorial.
 
-<a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE" target="_blank">
+<a href="https://www.youtube.com/watch?v=UW6AGWX11bY" target="_blank">
   <img
-    src="https://i.ytimg.com/vi/YOUR_VIDEO_ID_HERE/maxresdefault.jpg"
+    src="https://i.ytimg.com/vi/UW6AGWX11bY/maxresdefault.jpg"
     alt="Scala Plotting with XChart - Implementation Tutorial"
     style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.15); margin-top: 0.5rem;"
   />
