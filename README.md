@@ -1,6 +1,6 @@
 <div style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; line-height: 1.6;">
 
-  <h1 style="margin-bottom: 0.2em; text-align: center !important;">Scala Plotting Playground</h1>
+  <h1 align="center" style="margin-bottom: 0.2em; ">Scala Plotting Playground</h1>
 
   <p style="font-size: 0.95rem; max-width: 820px; margin: 0 auto;">
     A minimal, extensible <strong>Scala 3</strong> project showcasing plotting with
@@ -11,7 +11,7 @@
     adding a new Scala file and a new README section.
   </p>
 
-  <p style="font-size: 1rem; color: #666; margin-top: 0.5em; text-align: center !important;">
+  <p align="center" style="font-size: 1rem; color: #666; margin-top: 0.5em; ">
     Built with Scala 3, sbt / scala-cli, and XChart (Swing backend).
   </p>
 
